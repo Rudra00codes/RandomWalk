@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# SDL2 library files
+lib/SDL2/
+
+# CMake build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeConfigureLog.yaml
+cmake.check_cache
+
+# Other temporary files
+*.log
+*.tmp

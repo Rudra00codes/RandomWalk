@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/rudra/Libraries/SDL2-2.30.10/x86_64-w64-mingw32/include",
+                "C:/Users/rudra/Libraries/SDL2-2.30.10/x86_64-w64-mingw32/include/SDL2"
+            ],
+            "defines": [],
+            "compilerPath": "C:/msys64/ucrt64/bin/x86_64-w64-mingw32-g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+/*g++ -o RandomWalk main.cpp -IC:\Users\rudra\Libraries\SDL2-2.30.10\x86_64-w64-mingw32\include\SDL2 -LC:\Users\rudra\Libraries\SDL2-2.30.10\x86_64-w64-mingw32\lib -lmingw32 -lSDL2main -lSDL2*/
+
+/*.\RandomWalk.exe*/
