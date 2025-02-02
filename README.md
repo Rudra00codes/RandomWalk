@@ -42,7 +42,8 @@ This project demonstrates the use of the SDL2 library for graphics programming i
 
 ## Video Demo 🎥
 Watch the RandomWalk in action:
-[![RandomWalk Demo](https://youtu.be/6xoGNF_uH-w?si=YkBXIVjj9B2zxHSr)]
+
+![RandomWalk Demo](./assets/randomWalk.mp4)
 
 ## Getting Started 🚀
 
