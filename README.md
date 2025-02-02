@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-#### 🎮 RandomWalk is a C++ program that generates a pattern by the random movement of a pixel using the SDL2 library. The program creates a window where a pixel moves randomly, leaving a colorful trail behind. The generated pattern can be saved as a BMP file. 🎨
+#### 🎮 RandomWalk is a C++ program that generates a pattern by the random movement of a pixel using the SDL2 library. The program creates a window where a pixel moves randomly, leaving a colourful trail behind. The generated pattern can be saved as a BMP file. 🎨
 
 #### 🎓 This project was created as a fun experiment after learning C++ in my 2nd semester of college. It served as a practical way to explore and test the SDL library, combining newly acquired programming knowledge with graphics programming concepts. 💡
 
@@ -35,7 +35,7 @@ This project demonstrates the use of the SDL2 library for graphics programming i
 ## Features ✨
 - Random movement of a pixel
 - Colorful trails
-- Save pattern as BMP file
+- Save the pattern as a BMP file
 
 ## Screenshots 📸
 ![Screenshot](path/to/screenshot.png)
@@ -83,7 +83,7 @@ Run the executable:
 ./RandomWalk.exe
 ```
 
-The program will open a window where a pixel moves randomly, leaving a colorful trail. When you close the window, the generated pattern will be saved as `pattern.bmp` in the current directory.
+The program will open a window where a pixel moves randomly, leaving a colourful trail. When you close the window, the generated pattern will be saved as `pattern.bmp` in the current directory.
 
 ## SDL2 Resources 📚
 - Official SDL2 Website: [libsdl.org](https://www.libsdl.org/)
@@ -93,6 +93,9 @@ The program will open a window where a pixel moves randomly, leaving a colorful 
 
 ## Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
+
+![Alt](https://repobeats.axiom.co/api/embed/a005a65113d6ead7fa1c05ff7019eda75dbfd827.svg "Repobeats analytics image")
+
 
 ## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
